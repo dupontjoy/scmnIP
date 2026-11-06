@@ -18,3 +18,5 @@
 134.185.85.155:443#SIN-SG-Cloudflare, Inc.-134.185.85.155-0.34MB/s
 13.158.86.30:443#NRT-JP-Amazon.com, Inc.-13.158.86.30-0.21MB/s
 18.179.112.117:443#NRT-JP-Amazon.com, Inc.-18.179.112.117-0.22MB/s
+43.156.92.214:443#SIN-SG-Tencent Building, Kejizhongyi Avenue-0.57MB/s
+43.163.91.6:443#SIN-SG-Tencent Building, Kejizhongyi Avenue-1.14MB/s
