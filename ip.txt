@@ -12,3 +12,9 @@
 23.246.154.104:443#SJC-US-AYIT-0.39MB/s
 38.49.42.210:8443#LAX-US-FASTNET DATA INC-0.78MB/s
 179.255.126.253:443#LAX-US-DMIT Cloud Services-0.38MB/s
+18.138.34.221:443#SIN-SG-Amazon.com, Inc.-0.42MB/s
+185.115.207.90:443#SIN-SG-ByteVirt LLC-0.46MB/s
+152.69.224.226:443#SIN-SG-Oracle Corporation-0.49MB/s
+43.156.39.15:443#SIN-SG-Tencent Building, Kejizhongyi Avenue-0.76MB/s
+213.35.105.58:443#SIN-SG-Cloudflare, Inc.-0.55MB/s
+43.156.2.91:443#SIN-SG-Tencent Building, Kejizhongyi Avenue-1.11MB/s
