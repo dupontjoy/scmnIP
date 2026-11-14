@@ -1,3 +1,5 @@
+161.118.196.58:443#SIN-SG-Oracle Corporation-1.06MB/s
+152.69.224.226:443#SIN-SG-Oracle Corporation-0.82MB/s
 167.179.111.19:443#NRT-JP-The Constant Company, LLC-4.00MB/s
 108.160.136.71:443#NRT-JP-The Constant Company, LLC-2.58MB/s
 152.70.86.199:443#KIX-JP-Oracle Corporation-2.42MB/s
